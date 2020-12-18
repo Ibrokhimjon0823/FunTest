@@ -1,0 +1,11 @@
+<N> 1 .[ Name: Sobirjon 123456 Type: Teacher ]
+
+<N> 2 .[ Name: asdfg 1223545 Type: Teacher ]
+<N> 3 .[ Name: Sadullaev 123456 Type: Student ]
+<N> 4 .[ Name: CLaudius 123456789 Type: Student ]
+<N> 5 .[ Name: SSD 123456 Type: Student ]
+<N> 6 .[ Name: Tesla 369 Type: Teacher ]
+<N> 7 .[ Name: Student1 123456 Type: Student ]
+<N> 8 .[ Name: Student2 123456 Type: Student ]
+<N> 9 .[ Name: Student3 123456 Type: Student ]
+<N> 10 .[ Name: Student4 123456 Type: Student ]

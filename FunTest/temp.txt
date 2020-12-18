@@ -1,0 +1,7 @@
+Test: Literature1
+Passed:
+Average:
+Student: Student4 
+Student: Student3 Result: 3 / 4
+Student: Student2 Result: 4 / 4
+Student: Student1 Result: 4 / 4
